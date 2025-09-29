@@ -5,6 +5,9 @@ Elle est conçue pour fonctionner sans connexion Internet après téléchargemen
 
 ---
 
+![Logo](images/screenshot.png)
+
+
 ## Installation
 
 Voici les étapes pour installer Local-Bot Lite et préparer votre environnement :
@@ -85,3 +88,4 @@ python build_exe.py
 - torch  
 - customtkinter (optionnel)  
 - faiss-cpu (optionnel, pour accélérer les embeddings)
+
