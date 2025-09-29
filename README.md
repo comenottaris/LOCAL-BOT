@@ -5,7 +5,7 @@ Elle est conçue pour fonctionner sans connexion Internet après téléchargemen
 
 ---
 
-![Logo](images/screenshot.png)
+![voir un test](images/screenshot.png)
 
 
 ## Installation
@@ -88,4 +88,5 @@ python build_exe.py
 - torch  
 - customtkinter (optionnel)  
 - faiss-cpu (optionnel, pour accélérer les embeddings)
+
 
