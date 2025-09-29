@@ -1,0 +1,6 @@
+transformers
+huggingface-hub
+sentence-transformers
+torch
+customtkinter
+faiss-cpu

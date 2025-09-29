@@ -1,0 +1,26 @@
+# ---------------- Python ----------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+.env.*
+
+# ---------------- PyInstaller ----------------
+dist/
+build/
+*.spec
+
+# ---------------- Logs ----------------
+logs/
+*.log
+
+# ---------------- Hugging Face cache ----------------
+.cache/
+*.hf
+models--*
